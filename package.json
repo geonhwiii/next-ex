@@ -1,0 +1,15 @@
+{
+  "name": "next-ex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "geonhwiii <g01063962671@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
