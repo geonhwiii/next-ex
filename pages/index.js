@@ -1,5 +1,12 @@
+import React from "react";
+import AppLayout from "../components/AppLayout";
+
 const Index = () => {
-  return <div>HELLO~</div>;
+  return (
+    <AppLayout>
+      <div>HELLO NEXT_____</div>
+    </AppLayout>
+  );
 };
 
 export default Index;
