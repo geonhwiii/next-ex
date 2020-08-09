@@ -4,7 +4,7 @@ import AppLayout from "../components/AppLayout";
 const Index = () => {
   return (
     <AppLayout>
-      <div>HELLO NEXT_____</div>
+      <div></div>
     </AppLayout>
   );
 };
